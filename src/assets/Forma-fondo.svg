@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="458.78397mm"
+   height="210.12239mm"
+   viewBox="0 0 458.78397 210.12239"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Forma-fondo.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="M 0,595.2756 H 841.8898 V 0 H 0 Z"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath38">
+      <path
+         d="M -50.4,0 H 944.4107 V 664.202 H -50.4 Z"
+         clip-rule="evenodd"
+         id="path36" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath52">
+      <path
+         d="m -586.2107,-0.3475 h 17.5289 c 57.5252,0 57.5252,0 90.6693,57.5249 L -234.2911,480.2088 9.4385,57.1774 C 42.5784,-0.3433 42.5744,-0.3475 100.0998,-0.3475 h 17.5247 c 57.5254,0 57.5254,0 90.6692,57.5249 L 518.3152,595.275 h -132.5795 -611.2604 -17.5289 c -57.5212,0 -58.0016,0.2775 -91.3736,-57.5249 L -472.866,297.47 c -33.1398,-57.5249 -33.1398,-57.5249 -90.6652,-57.5249 l -218.6436,-0.004 105.2988,-182.7635 c 33.1399,-57.5249 33.1399,-57.5249 90.6653,-57.5249"
+         id="path50" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="767.4202"
+     inkscape:cy="195.13099"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Capa 2"
+     transform="translate(320.37766,-23.914464)">
+    <path
+       d="m -251.24588,234.03685 h 6.18381 c 20.29361,0 20.29361,0 31.98611,-20.29351 l 85.97949,-149.23607 85.982387,149.23607 c 11.69102,20.29203 11.68961,20.29351 31.9832896,20.29351 h 6.18233 c 20.2936804,0 20.2936804,0 31.9860734,-20.29351 L 138.4063,23.914473 h -46.771097 -215.639073 -6.18381 c -20.2922,0 -20.46168,-0.0979 -32.23458,20.293506 l -48.83813,84.765481 c -11.69098,20.2935 -11.69098,20.2935 -31.98466,20.2935 l -77.13261,10e-4 37.14708,64.4749 c 11.69102,20.29351 11.69102,20.29351 31.9847,20.29351"
+       style="fill:#15181e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="path44" />
+  </g>
+</svg>
